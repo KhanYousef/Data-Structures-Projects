@@ -1,4 +1,4 @@
-# Data-Structures-Projects
+# Data Structures Projects
 
 
 ## Projects
